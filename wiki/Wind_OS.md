@@ -15,7 +15,7 @@
 | **Programmed In**         | PowerPoint VBA                |
 | **OS Family**             | WindOS                        |
 | **First Release**         | WindOS 1.X                    |
-| **Latest OS Development** | /                             |
+| **Latest OS Development** | WindOS 7                             |
 | **Latest Stable Release** | WindOS 6 Lion                 |
 
 ### WindOS
@@ -46,6 +46,9 @@ WindOS 5.0 “Tiger”(Codename: Tiger) was the fifth version, this version rele
 
 WindOS 6.0 “Lion”(Codename: Lion) was the sixth version, this version released on September 10th on discord.
 
+### WindOS 7.0 
+
+WindOS 7.0 (Codename: ?????) was the seventh version, this version was in development.
 ### Version Support
 
 |                           |                               |
