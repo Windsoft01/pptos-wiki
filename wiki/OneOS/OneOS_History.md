@@ -20,7 +20,7 @@
 
 |   Version   |    Codename       |     RTM Build     | Release Date  |     State     |
 |-------------|-------------------|----------------|---------------|---------------|
-|   OneOS 1   |  Potassium |        40       |       \       |  Development  |
+|   OneOS 1   |  Potassium |        40       |       \       |  Released  |
 |OneOS 2 | Calcium | \ | \ | Development |
 
 ### OneOS 1
