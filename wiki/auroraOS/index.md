@@ -21,7 +21,7 @@
 
 ### auroraOS
 
-auroraOS is the new pptos for Windsoft Studio, then the pptos be will have movable window system and new window design(auroraUI1)
+auroraOS is the new pptos for Windsoft Technology, then the pptos be will have movable window system and new window design(auroraUI 1).
 
 ### Aurora 1
 
